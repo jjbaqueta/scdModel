@@ -1,0 +1,13 @@
+FailurePropagationAlgorithms:
+	LOWEST_PENALIZATION, 
+	HIGHEST_PENALIZATION;
+
+PartnerSelectionAlgorithms:
+	STATIC_EGREEDY, 
+	DYNAMIC_EGREEDY,
+	UCB;
+	
+AccumulationType:
+	SUM,
+	PRODUCT,
+	PROBABILISTIC_SUM;

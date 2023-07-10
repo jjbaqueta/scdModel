@@ -1,0 +1,11 @@
+MAS scdModel {
+
+	infrastructure: Centralised
+	environment: environments.DefaultEnvironment
+
+	agents:
+		manager;
+
+	aslSourcePath:
+		"src/asl";
+}

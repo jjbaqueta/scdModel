@@ -1,0 +1,48 @@
+General measures:
+* Execution time: 105.477
+
+**** Delegators' Performance ****
+
+* Success rate:
+* Sum: 614.6285464883813
+* Mean: 0.5121904554069844
+* Max value: 0.7222222222222222
+* Min value: 0.0
+* Standard deviation: 0.0997051233812823
+
+* Satisfaction:
+* Sum: 529.4015454654905
+* Mean: 0.4411679545545754
+* Max value: 0.7407867096676838
+* Min value: 5.31829343231381E-4
+* Standard deviation: 0.18484373797186315
+
+* Regret:
+* Sum: 136.57181737735291
+* Mean: 0.11380984781446077
+* Max value: 0.2651925413479606
+* Min value: 0.0011187405954234027
+* Standard deviation: 0.043138057710513156
+
+**** Agents' Performance ****
+
+* Success rate:
+* Sum: 566.6405926586586
+* Mean: 0.4722004938822155
+* Max value: 0.9647058823529412
+* Min value: 0.4562357034252501
+* Standard deviation: 0.04263708075747008
+
+* Satisfaction:
+* Sum: 193.69290471686244
+* Mean: 0.16141075393071871
+* Max value: 0.18378064465288727
+* Min value: 0.015324631176183228
+* Standard deviation: 0.017350874135373374
+
+* Regret:
+* Sum: 69.69818936144563
+* Mean: 0.05808182446787136
+* Max value: 0.07236729323020454
+* Min value: 0.013843599014871113
+* Standard deviation: 0.003961845203927303

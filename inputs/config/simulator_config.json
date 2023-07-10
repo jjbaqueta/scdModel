@@ -1,0 +1,47 @@
+{
+    "numberOfIterations": 1200,
+    "memoryCapacity": 500,
+    "imageWeight": 0.3333,
+    "reputationWeight": 0.3333,
+    "referenceWeight": 0.3333,
+    "penalizationDiscount": -1.0,
+    "failurePropagationAlg": "LOWEST_PENALIZATION",
+    "partnerSelectionAlg": "DYNAMIC_EGREEDY",
+    "accumulationAlg": "PRODUCT",
+    "startupValue": 1.0,
+    "accuracyRangeStart": 0.75,
+    "accuracyRangeEnd": 0.9999,
+    "accuracyMaxIteration": 1200,
+    "debugMode": false,
+    
+    "dimensionSR":
+	{
+		"status": false, 
+		"weight": 0.0
+	},
+    "dimensionASR":
+	{
+		"status": true, 
+		"weight": 0.6
+	},
+    "dimensionCompetence":
+	{
+		"status": true,
+		"weight": 0.3
+	},
+    "dimensionExpectation":
+	{
+		"status": true, 
+		"weight": 0.1
+	},
+    "dimensionRisk":
+	{
+		"status": false,
+		"weight": 0.0
+	},
+    "dimensionGoal":
+	{
+		"status": false,
+		"weight": 0.0
+	}
+}
