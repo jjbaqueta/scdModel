@@ -11,7 +11,7 @@ The social-Cognitive Dependence Model (SCD-Model) is a model for task delegation
 </ul>
 
 # How to use
-The simulations are run based on input parameters that can be configured through an external file. This file is located at: https://github.com/jjbaqueta/scdModel/blob/main/inputs/config/simulator_config.json. 
+The simulations are run based on input parameters that can be configured through an external file. This file is located at: https://github.com/jjbaqueta/scdModel/blob/main/inputs/config/simulator_config.json
 
 A detailed specification about the meaning of each parameter can be found at: https://github.com/jjbaqueta/scdModel/wiki/SCD%E2%80%90Model-Parameters
 
