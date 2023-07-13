@@ -1,5 +1,5 @@
 # SCD-Model
-The social-Cognitive Dependence Model (SCD-Model) is a model for task delegation simulation, supporting sub-delegations and dependence chain formation. It operates based on a Dependence Situation Network (DS-net) that specifies how the agents establish their dependencies and the order in which the tasks will be delegated or executed.
+The Social-Cognitive Dependence Model (SCD-Model) is a model for task delegation simulation, supporting sub-delegations and dependence chain formation. It operates based on a Dependence Situation Network (DS-net) that specifies how the agents establish their dependencies and the order in which the tasks will be delegated or executed.
 
 # How to Use
 The simulations are run based on two types of input files, a JSON file that specifics the model configuration parameters and the XML files used to represent the relationships among the agents through DS-nets:
